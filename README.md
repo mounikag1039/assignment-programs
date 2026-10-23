@@ -1,3 +1,3 @@
-contains C programs completed as a part off PPS course assignment.
-
+# assignment_programs
+contain pps assignment programs
 
